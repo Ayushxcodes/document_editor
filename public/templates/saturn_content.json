@@ -1,0 +1,99 @@
+[
+  {
+    "id": "saturn-c1",
+    "label": "Saturn Contract 1",
+    "data": {
+      "company_name": "Company Name",
+      "date": "06.02.2026",
+      "contract_number": "SAT-0001",
+      "subject": "Engagement for Due Diligence Services",
+      "introduction": "We are pleased to confirm our engagement with Company Name (Client) to provide due diligence services in connection with the proposed investment / transaction.",
+      "scope_of_services": [
+        "Review of corporate and secretarial records",
+        "Review of financial information and key agreements",
+        "Identification of material risks and compliance gaps",
+        "Preparation of due diligence report highlighting key observations",
+        "Scope may be refined based on discussions and information availability"
+      ],
+      "deliverables": [
+        "Due Diligence Report summarizing key findings, risks, and recommendations"
+      ],
+      "timelines": "Completion within 4 weeks from receipt of all relevant documents",
+      "fees": {
+        "professional_fees": "₹0k",
+        "out_of_pocket_expenses": "Charged at actuals",
+        "payment_terms": "50% upfront and balance upon submission of report / as agreed"
+      },
+      "client_responsibilities": [
+        "Provide timely access to documents and information",
+        "Ensure accuracy and completeness of data",
+        "Facilitate coordination with target entity if required"
+      ],
+      "confidentiality": "Both parties shall maintain strict confidentiality and not disclose information without prior consent unless required by law.",
+      "limitation_of_liability": "Liability limited to fees received. No guarantee or assurance of transaction outcomes.",
+      "termination": "Either party may terminate with 7/15 days written notice. Fees for work completed shall be payable.",
+      "governing_law": "Laws of India; jurisdiction: Delhi courts",
+      "signatory": {
+        "firm": "Saturn Consulting Group",
+        "name": "Nishant Khemani",
+        "designation": "Partner",
+        "image": ""
+      },
+      "acceptance": {
+        "company_name": "Company Name",
+        "authorized_signatory_name": "",
+        "designation": ""
+      }
+    }
+  },
+  {
+    "id": "saturn-c2",
+    "label": "Saturn Contract 2",
+    "data": { "company_name": "Saturn Co. 2", "date": "2026-04-06", "fees": "2,000", "contract_number": "SAT-0002" }
+  },
+  {
+    "id": "saturn-c3",
+    "label": "Saturn Contract 3",
+    "data": { "company_name": "Saturn Co. 3", "date": "2026-04-06", "fees": "3,000", "contract_number": "SAT-0003" }
+  },
+  {
+    "id": "saturn-c4",
+    "label": "Saturn Contract 4",
+    "data": { "company_name": "Saturn Co. 4", "date": "2026-04-06", "fees": "4,000", "contract_number": "SAT-0004" }
+  },
+  {
+    "id": "saturn-c5",
+    "label": "Saturn Contract 5",
+    "data": { "company_name": "Saturn Co. 5", "date": "2026-04-06", "fees": "5,000", "contract_number": "SAT-0005" }
+  },
+  {
+    "id": "saturn-c6",
+    "label": "Saturn Contract 6",
+    "data": { "company_name": "Saturn Co. 6", "date": "2026-04-06", "fees": "6,000", "contract_number": "SAT-0006" }
+  },
+  {
+    "id": "saturn-c7",
+    "label": "Saturn Contract 7",
+    "data": { "company_name": "Saturn Co. 7", "date": "2026-04-06", "fees": "7,000", "contract_number": "SAT-0007" }
+  },
+  {
+    "id": "saturn-c8",
+    "label": "Saturn Contract 8",
+    "data": { "company_name": "Saturn Co. 8", "date": "2026-04-06", "fees": "8,000", "contract_number": "SAT-0008" }
+  },
+  {
+    "id": "saturn-c9",
+    "label": "Saturn Contract 9",
+    "data": { "company_name": "Saturn Co. 9", "date": "2026-04-06", "fees": "9,000", "contract_number": "SAT-0009" }
+  },
+  {
+    "id": "saturn-c10",
+    "label": "Saturn Contract 10",
+    "data": { "company_name": "Saturn Co. 10", "date": "2026-04-06", "fees": "10,000", "contract_number": "SAT-0010" }
+  },
+  {
+    "id": "saturn-c11",
+    "label": "Saturn Contract 11",
+    "data": { "company_name": "Saturn Co. 11", "date": "2026-04-06", "fees": "11,000", "contract_number": "SAT-0011" }
+  }
+]
